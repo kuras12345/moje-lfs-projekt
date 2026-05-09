@@ -1,3 +1,4 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.apk[[:space:]] filter=lfs diff=lfs merge=lfs -text
 *.zip[[:space:]] filter=lfs diff=lfs merge=lfs -text
+*.apk filter=lfs diff=lfs merge=lfs -text
